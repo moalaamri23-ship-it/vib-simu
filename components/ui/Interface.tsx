@@ -1629,7 +1629,9 @@ INSTRUCTION FOR REPORT GENERATION:
             </div>
         </div>
     )}
-
+</div>
+            </div>
+        </div>
     </>
   );
 };
